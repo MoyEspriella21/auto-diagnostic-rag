@@ -1,1 +1,1 @@
-# auto-diagnostic-rag
+# Auto-Diagnostic RAG: An End-to-End Automotive Application
